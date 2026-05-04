@@ -1,0 +1,4 @@
+# Ignorar archivos temporales de Docker y SO
+.dockerignore
+Thumbs.db
+.DS_Store
